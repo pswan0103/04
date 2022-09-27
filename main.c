@@ -17,7 +17,6 @@ int main(int argc, char *argv[]) {
 			b++;	
 		}
 	}
-	
 	printf("The result is : %i\n", b);
 	
 	return 0;
